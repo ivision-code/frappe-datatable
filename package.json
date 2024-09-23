@@ -38,7 +38,7 @@
     "mocha": "3.3.0",
     "postcss-custom-properties": "^7.0.0",
     "postcss-nested": "^3.0.0",
-    "rollup": "^0.59.4",
+    "rollup": "^3.29.5",
     "rollup-plugin-commonjs": "^8.3.0",
     "rollup-plugin-eslint": "^4.0.0",
     "rollup-plugin-json": "^2.3.0",
